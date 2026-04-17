@@ -1,7 +1,8 @@
 Flask
 gunicorn
-mywebsite/
+MYWEBSITE/
+  static/
+    images/
+    style.css
   app.py
   requirements.txt
-  static/
-  .venv/
