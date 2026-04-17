@@ -1,0 +1,7 @@
+Flask
+gunicorn
+mywebsite/
+  app.py
+  requirements.txt
+  static/
+  .venv/
