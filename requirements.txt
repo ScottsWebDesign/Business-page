@@ -1,8 +1,2 @@
 Flask
 gunicorn
-MYWEBSITE/
-  static/
-    images/
-    style.css
-  app.py
-  requirements.txt
